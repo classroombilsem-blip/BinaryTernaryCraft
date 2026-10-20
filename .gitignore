@@ -1,0 +1,21 @@
+## .NET / C#
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Python / Caches
+__pycache__/
+*.py[cod]
+.ruff_cache/
+
+## Build Artifacts & Logs
+*.log
+
+## Large Mod JARs and extracted directories
+*.jar
+create-1.21.1-6.0.10/
